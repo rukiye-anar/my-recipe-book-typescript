@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Story+Script&display=swap" rel="stylesheet" />
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="navbar-placeholder"></div>
+ <div class="login-container">
+      <!-- LOGIN -->
+<div id="login-form">
+  <h2>Giriş Yap</h2>
+  <form>
+    <input type="email" id="email" placeholder="E-posta Adresiniz">
+    <input type="password" id="password" placeholder="Şifreniz">
+    <button type="submit" id="submit" disabled>Giriş Yap</button>
+  </form>
+</div>
+
+<!-- SIGNUP -->
+<div id="signup-form" style="display: none;">
+  <h2>Üye Ol</h2>
+  <form>
+    <input type="text" id="signup-username" placeholder="Kullanıcı Adınız">
+    <input type="email" id="signup-email" placeholder="E-posta Adresiniz">
+    <input type="password" id="signup-password" placeholder="Şifreniz">
+    <button type="submit" id="submit-signup" disabled>Üye Ol</button>
+  </form>
+</div>
+
+    </div>
+    <div id="footer-placeholder"></div>
+    <div id="scroll-top-placeholder"></div>
+<script src="javascript/login.js" type="module" defer></script>
+     <script type="module" src="dist/app.js"></script>
+</body>
+
+</html>

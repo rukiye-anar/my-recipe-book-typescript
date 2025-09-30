@@ -1,0 +1,65 @@
+[
+  {
+    "id": "lentil-soup",
+    "imageSrc": "img/mercimek-corbasi.jpg",
+    "title": "Mercimek Çorbası",
+    "time": "30dk",
+    "description": "En İyi Kıvam Onda (Nurullah Usulü).",
+    "category": "Çorbalar",
+    "detail": "Kırmızı mercimek çorbası için sıvı yağı tencereye alınarak yemeklik doğranan soğanlar hafif pembeleşinceye kadar kavrulur.Daha sonra un ilave edilerek kısık ateşte kavurmaya devam edilir.Salça kullanılacak ise salça ilave edilir, kavrulduktan sonra küp küp doğranmış havuç ve iyice yıkanıp suyu süzülen mercimekler ilave edilir.Üzerine su eklenerek karıştırılır ve tencerenin kapağı kapatılır. Çorbamız kaynayana kadar orta ateşte, kaynadıktan sonra mercimekler ve havuçlar yumuşayana kadar ara ara karıştırılarak kısık ateşte pişirilir.Çorba piştikten sonra el blenderı ile güzelce ezilir. Eğer blenderiniz yoksa süzgeçten de geçirebilirsiniz.Karabiber, tuz ve isteğe bağlı olarak kimyon eklenir ve karıştırılır. 5 dakika daha pişirilerek ocaktan alınır.Kıvamı koyu gelirse size, bir miktar su ilave edilerek bir taşım kaynatılır.Bu arada küçük bir tavaya iki yemek kaşığı tereyağı alınır, kızdırılır ve bir tatlı kaşığı kırmızı toz biber eklenerek ocaktan alınır.Mercimek çorbası servis kasesine alındıktan sonra üzerine kırmızı biberli sos gezdirilir ve bir dilim limon ile servis edilir."
+  },
+  {
+    "id": "ezogelin-soup",
+    "imageSrc": "img/ezogelin-corbasi.jpg",
+    "title": "Ezogelin Çorbası",
+    "time": "40dk",
+    "description": "Geleneksel lezzet.",
+    "category": "Çorbalar",
+    "detail": "Tencereye tereyağı ve 1 yemek kaşığı sıvı yağ tencereye alınarak ısıtılır.Soğan ve sarımsak küçük küçük doğranır ve tencerede orta ateşte, soğanlar diriliğini kaybedinceye kadar kavrulur. Dilerseniz sarımsakları rendeleyerek de kullanabilirsiniz.Üzerine yıkanmış ve suyu süzülmüş olan kırmızı mercimek, pirinç ve bulgur eklenerek karıştırılır ve kavrulur.Üzerine sıcak su ilave edilerek tencerenin kapağı kapatılır ve pişmeye bırakılır. Çorba kaynayana kadar yüksek ateşte kaynadıktan sonra kısık ateşte ara ara karıştırılır.Bakliyatlar yumuşayınca kadar yaklaşık 35 dakika pişirilir ve ocak kapatılır.Ayrı bir yerde 2 yemek kaşığı sıvı yağ ısıtılır.1 yemek kaşığı un eklenir ve unun kokusu çıkana kadar karıştırılarak kavrulur.Üzerine 2 yemek kaşığı domates salçası eklenir, 1-2 dakika daha kavrulur.Salça da kavrulduktan sonra 2 su bardağı kadar su ilave edilerek kaynatılır.Nane, kırmızı biber, karabiber ilave edilerek hazırlanan sos ocaktan alınır ve çorbaya ilave edilir.Tuzu da eklenerek 1-2 dakika kaynatılır. Bu aşamada gerek duyarsanız sıcak su ekleyebilirsiniz. Ben 2,5 su bardağı kadar sıcak su ekledim ancak siz çorbanızın kıvamına göre ayarlayabilirsiniz.Yaklaşık 5 dakika daha kaynattıktan sonra Ezogelin Çorbamız servise hazır. Afiyet olsun."
+  },
+  {
+    "id": "tomato-soup",
+    "imageSrc": "img/domates-corbasi.jpg",
+    "title": "Domates Çorbası",
+    "time": "25dk",
+    "description": "Mis gibi kokusu var.",
+    "category": "Çorbalar",
+    "detail": "Domates çorbası yapmak için öncelikle domateslerin kabuğu ince bir şekilde soyulur ve ikiye kesilip rondodan geçirilir. Dilerseniz domatesleri rendeleyebilir ya da 2 su bardağı kadar domates sosu kullanabilirsiniz.Uygun bir tencerede tereyağı eritilir. Üzerine un eklenerek karıştırılır ve 1-2 dakika hafifçe kavrulur. Ocağı yüksek ateşte açarak unu yakmamaya dikkat etmelisiniz.Ardından rondodan geçirilen domatesler bu karışıma ilave edilir, birkaç dakika karıştırılarak kavrulur.Ara verilmeden 1 litre kadar su ilave edilip karıştırma işlemini sürdürülür. 15 dakika bu şekilde kaynatılır.Daha sonra süt ilave edilip birkaç dakika daha kaynatılır. Tuzu ilave edilip karıştırılır ve ocaktan alınır. Sütün oda sıcaklığında olmasına dikkat etmelisiniz.Arzuya göre servis yaparken üzerine kaşar peyniri rendesi ilave edilir. Domates çorbamız servise hazır, afiyet olsun."
+  },
+  {
+    "id": "cheesecake",
+    "imageSrc": "img/cheesecake.jpg",
+    "title": "Frambuazlı Cheesecake",
+    "time": "30dk",
+    "description": "enfes soslu.",
+    "category": "Tatlılar",
+    "detail": "Frambuazlı cheesecake’in alt tabanı için öncelikle yulaflı bisküvi ve fındığı rondoya alarak kum gibi olana kadar rondoyu çalıştıralım.Hazırladığımız bisküviyi uygun bir kaba aktaralım. Üzerine süt ve eritilmiş tereyağını ekleyerek tüm malzemeleri güzelce karıştıralım.Kelepçeli kalıbımızın tabanına pişirme kağıdını yerleştirelim. Hazırladığımız bisküvili harcı kalıba boşaltalım ve kaşıkla bastırarak sıkıştıralım. Kremamızı hazırlayana kadar tatlımızın tabanını buzdolabında dinlenmeye bırakalım.Kreması için uygun bir kasede sıvı kremayı mikserle çırpalım.Labne peynirini de ayrı bir kap içerisinde çırptıktan sonra kremayı üzerine ilave edelim.Üzerine şekeri de ekleyelim ve şeker eriyene kadar güzelce çırpalım.Kremamızı çırparken bir yandan da yumurtalarımızı teker teker ekleyelim.Yumurtaları ekledikten sonra karışımımıza son olarak un ve vanilyayı ilave edip tekrar çırpalım.Buzdolabında beklettiğimiz kelepçeli kalıbı alarak kalıbın etrafını alüminyum folyo ile saralım.İçerisine hazırladığımız kremayı boşaltalım ve önceden ısıttığımız 160 °C fırında alt üst fansız ayarda 1 saat pişmeye bırakalım. Bu aşamada fırının içerisine ısıya dayanıklı bir kap içerisinde su koyarak cheesecake’in çatlamasını engelleyelim.Sürenin sonunda fırının kapağını açalım. Hafifçe sallayarak pişip pişmediğini kontrol edelim. Salladığımızda çok fazla oynamıyorsa fırını kapatalım. Kapağını aralık bırakarak 1 saat kadar oda ısısına gelmesi için dinlenmeye bırakalım.Cheesecake’imizin frambuazlı sosu için sos tenceresine frambuaz, toz şeker ve suyu alarak karıştıralım.Diğer taraftan soğuk suyun içerisinde mısır nişastasını çözdürelim ve sosumuza ilave edelim. Kaynayıncaya kadar sürekli karıştırarak frambuaz sosunu pişirelim.Sos kaynamaya başladıktan sonra vanilyayı ekleyelim ve tekrardan karıştıralım.Yaklaşık 1 saat kadar dinlendirdikten sonra cheesecake’i fırından alaralım. Üzerine sosumuzu gezdirelim.Hazır olan frambuazlı cheesecake’imizi dilediğimiz şekilde süsleyerek servis edelim. Afiyet olsun!"
+  },
+  {
+    "id": "tiramisu",
+    "imageSrc": "img/tiramisu.jpg",
+    "title": "tiramisu",
+    "time": "20dk",
+    "description": "Tadı Damakta Kalır.",
+    "category": "Tatlılar",
+    "detail": "Kedidilli tiramisumuzun öncelikle kremasını hazırlayalım. Bunun için uygun bir tencereye süt, şeker, yumurta sarısı ve unu alalım. Ocağı açmadan malzemeleri tel çırpıcı ile karıştıralım.Ardından ocağı açıp karıştırarak koyulaşana kadar pişirelim.Koyulaşan kremaya vanilyayı ilave ederek 1-2 tur daha karıştırıp ocaktan alalım.Daha hızlı soğuması için kremamızı ayrı bir kaba aktaralım ve ara ara karıştırarak havalandırıp soğumaya bırakalım.Kremamız el yakmayacak kadar soğuduğunda içerisine labne peynirini ekleyelim. Mikserle, pürüzsüz bir kıvam alana kadar çırparak bir kenara alalım.Derin bir tabak içerisine granül kahve, toz şeker ve sıcak suyu alarak kahve çözünene kadar karıştıralım.Kedidillerimizi çözdürdüğümüz kahveye hızlıca batırıp çıkartarak kullanacağımız borcamın tabanını kaplayacak şekilde dizelim. Ben bu tarifte 24 cm X 35 cm boyutlarında bir borcam kullandım.Hazırladığımız kremanın yarısını kedidili bisküvilerinin üzerine dökerek yayalım.Kremanın üzerine tekrar kedidillerini kahveye batırarak dizelim.Kalan kremayı da dökerek her yeri eşit olacak şekilde yayalım.Son olarak tiramisunun üzerine kakao serpelim. Mümkünse 1 gece, vaktiniz yoksa en az 2-3 saat buzdolabında dinlendirelim.Pastamızın üzerini dilediğimiz şekilde süsledikten sonra servis edelim. Afiyet olsun!"
+  },
+  {
+    "id": "kagit-kebabi",
+    "imageSrc": "img/kagit-kebabi.jpg",
+    "title": "Kağıt Kebabı",
+    "time": "50dk",
+    "description": "Yumuşacık Et.",
+    "category": "AnaYemek",
+    "detail": "Sıvı yağı tencerede kızdırın, soyup temizlemiş olduğunuz soğanları ve kuşbaşı doğranmış etleri tencereye alın.Tencerenin kapağını kapatabilirsiniz.Etler suyunu saldıktan sonra salçayı ve 1 su bardağı sıcak suyu ilave edin.Güzelce karıştırdıktan sonra tencerenin kapağını kapatarak pişirmeye devam edin. Etler yumuşayana kadar yaklaşık 8-9 dk yemeğiniz pişsin.Bu arada patatesleri ve kabuğu soyulmuş domatesleri küp küp doğrayın, havuçları da minik küpler halinde doğrayın.Yumuşamış etlere patates, domates ve havuç eklenerek karıştırılır.Sebzeler yumuşayana tencerenin kapağı kapalı bir şekilde pişirmeye devam edinPatates yumuşamaya başladığında yıkayıp suyunu süzdüğünüz bezelyeyi, karabiber, kekik ve tuzu ekleyip 3-4 dk. daha kaynatın. Yemeği ocaktan alın.Yaklaşık 30cmx30cm boyutundaki yağlı kağıtlara birer kişilik porsiyonlar koyarak, fotoğraftaki gibi katlayın.Önce uzun kenarları üst üste getirin ardından kenarları katlayın. kat yerleri alta gelecek şekilde tepsiye yerleştirin. 190 derecede ısıttığınız fırında 20-25dk kadar tutun."
+  },
+  {
+    "id": "hünkar-begendi",
+    "imageSrc": "img/hünkar-begendi.jpg",
+    "title": "Hünkar Beğendi",
+    "time": "60dk",
+    "description": "Lokum Gibi Etiyle Hünkar Beğendi.",
+    "category": "AnaYemek",
+    "detail": "İlk olarak tavamıza tereyağını alalım ve eritelim.Ardından doğradığımız soğanlarımızı ekleyelim ve biraz kavuralım.Soğanlarımız kavrulduktan sonra etlerimizi ilave edelim ve suyunu çekene kadar pişirelim.Etlerimiz suyunu çektikten sonra doğradığımız biber, domates, salça, tuz ve karabiber ekleyerek karıştıralım.Üzerine sıcak suyumuzu da ilave ederek yaklaşık 30 dakika daha pişmeye bırakalım.Bu sırada bizde beğendimizi hazırlayalım. Beğendi için tavaya tereyağımızı alarak eritelim.Yağımız eridikten sonra unumuzu ilave ederek yakmadan, kokusu çıkana kadar kavuralım.Kavrulan unumuzun üzerine doğradığımız köz patlıcanlarımızı ekleyelim ve patlıcanları ezerek karıştıralım.Daha sonra üzerine rendelenmiş kaşar peyniri, tuz ve muskatı ekleyerek peynirlerimiz eriyene kadar beğendimizi karıştırmaya devam edelim.Son olarak sütü de ekleyelim ve karıştırarak beğendimizin sütü çekip toparlanmasını sağlayalım.Ardından ocağı kapatalım ve beğendimizi servis tabağımıza alalım.Beğendimizin üzerine de etlerimizi koyarak servis edelim. Afiyet olsun."
+  }
+]
