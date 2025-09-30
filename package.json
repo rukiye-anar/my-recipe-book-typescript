@@ -1,15 +1,21 @@
 {
   "name": "myrecipebook-typescript",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "TypeScript ile tarif kitabı uygulaması",
+  "main": "dist/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "dev": "tsc --watch"
   },
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "recipe",
+    "tutorial"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^5.9.2"
+    "typescript": "^5.0.0"
   }
 }
+

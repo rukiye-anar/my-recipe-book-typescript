@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Pavlova",
-    "imageSrc": "/img/pavlova.jpg",
+    "imageSrc": "img/pavlova.jpg",
     "time": "40dk",
     "description": "enfes soslu.",
    "category": "Tatlılar",
@@ -12,7 +12,7 @@
   {
     "id": "5",
    "title": "Çilekli Magnolia",
-   "imageSrc": "/img/strawberry-magnolia.jpg",
+   "imageSrc": "img/strawberry-magnolia.jpg",
     "time": "40dk",
     "description": "enfes soslu.",
    "category": "Tatlılar",
@@ -21,7 +21,7 @@
   {
     "id": "8",
     "title": "Limonlu Cheesecake",
-    "imageSrc": "/img/lemon-cheesecake.jpg",
+    "imageSrc": "img/lemon-cheesecake.jpg",
     "time": "40dk",
     "description": "enfes soslu.",
     "category": "Tatlılar",
@@ -30,7 +30,7 @@
   {
     "id": "3",
     "title": "Sufle",
-    "imageSrc": "/img/souffle.jpg",
+    "imageSrc": "img/souffle.jpg",
     "time": "40dk",
     "description": "enfes soslu.",
    "category": "Tatlılar",
